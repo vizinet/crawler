@@ -43,9 +43,15 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 ### realtime
 
 - vizinet app (human, not so automated)
+- https://www.insecam.org/ - "world biggest directory of online surveillance security cameras"
 - https://www.earthcam.com/usa/washington/seattle/?cam=seattledowntown#gall-29
+- https://www.geocam.ru/en/
+- https://worldcam.eu/search?q=seattle&as_values_result=
+- https://www.skylinewebcams.com/en/webcam/china/hong-kong/hong-kong/china-hong-kong.html
 - https://www.tour-beijing.com/
 - https://www.webcamtaxi.com/en/usa/california/homewood-mountain-resort.html
+- http://www.wasar.org/webcams/
+- https://www.esbnyc.com/about/live-cam
 
 ### static
 
@@ -55,9 +61,23 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 
 ## existing tools
 
+### idk
+- https://eyes.daylightingsociety.org/propaganda
+
+### indices
+- https://github.com/topics/image-crawler
+- https://github.com/CDCgov - for the covid stuff
+- https://github.com/topics/surveillance
+
 ### crawlers & surveillance
+- https://github.com/k4cg/nichtparasoup/blob/3.0-dev/python-package/README.md - this sort of random dashboard idea is cool
+- https://github.com/matiasraisanen/insecrawl - insecam crawler
+- https://github.com/justrandomwebcams/totalynothackedijokeyounot - an insecam dump of links (w/o crawler code)
 - https://github.com/omic-ai/jailbreak - shameless plug
-- https://github.com/scrapy/scrapy
+- https://github.com/scrapy/scrapy - pretty popular
+- https://github.com/TransparencyToolkit/Harvester
+- https://github.com/mathdroid/covid-19-api
+- https://github.com/TransparencyToolkit/Surveillance-Research-Data
 - https://code.google.com/archive/p/surveillancesaver/ - looks like a good source/idea
 - https://www.300dollardatarecovery.com/surveillancesaver-live-video-screen-saver-broadcasting-from-around-the-world/
 - https://github.com/Pamoi/webcam-crawler
@@ -68,6 +88,7 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 - https://gist.github.com/jeffcrouse/7797275
 - https://github.com/hakluke/hakrawler
 - https://github.com/mykle1/MMM-EARTH-Live - from the iss, just for fun
+- https://github.com/damien911224/theWorldInSafety - ok idea, not sure how much they actually did this. wish there was a paper
 
 ### air quality
 - https://github.com/Anukriti2512/Air-Quality-Prediction
