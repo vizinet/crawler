@@ -57,6 +57,7 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 
 - that one dataset i got access to from those beijing mobile app paper authors
 - already crawled and correlated tour-beijing images
+- https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/air-quality - satellite images and air quality; neat idea
 - https://github.com/awesomedata/awesome-public-datasets#climate-weather - some data to cross-reference here, probably
 
 ## existing tools
