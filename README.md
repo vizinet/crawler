@@ -60,7 +60,11 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 - https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/air-quality - satellite images and air quality; neat idea
 - https://github.com/awesomedata/awesome-public-datasets#climate-weather - some data to cross-reference here, probably
 
-## existing tools
+## how?
+
+### personal hardware validation
+
+- https://www.youtube.com/watch?v=M2Y9n6fhoxI - build a cheap particular matter sensor for under $100. could be neat to combine with existing raspberry pi 1080p camera.
 
 ### idk
 - https://eyes.daylightingsociety.org/propaganda
