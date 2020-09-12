@@ -52,6 +52,7 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 - https://www.webcamtaxi.com/en/usa/california/homewood-mountain-resort.html
 - http://www.wasar.org/webcams/
 - https://www.esbnyc.com/about/live-cam
+- https://www.purpleair.com/map#1/25/-30
 
 ### static
 
@@ -62,9 +63,10 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 
 ## how?
 
-### personal hardware validation
+### related
 
 - https://www.youtube.com/watch?v=M2Y9n6fhoxI - build a cheap particular matter sensor for under $100. could be neat to combine with existing raspberry pi 1080p camera.
+- https://fischcheng.github.io/post/smoke_seattle/
 
 ### idk
 - https://eyes.daylightingsociety.org/propaganda
@@ -73,6 +75,7 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 - https://github.com/topics/image-crawler
 - https://github.com/CDCgov - for the covid stuff
 - https://github.com/topics/surveillance
+- https://github.com/topics/wildfire - wildfire detection and prevention stuff
 
 ### crawlers & surveillance
 - https://github.com/k4cg/nichtparasoup/blob/3.0-dev/python-package/README.md - this sort of random dashboard idea is cool
@@ -109,3 +112,10 @@ ideal collection locations: seattle (today, for wildfires), beijing, india
 - https://github.com/ashishpatel26/Real-time-ML-Project
 - https://github.com/txytju/air-quality-prediction
 - https://github.com/Alro10/deep-learning-time-series
+
+### wildfire early detection
+- https://github.com/pyronear/PyroNear
+- https://github.com/WorldWindEarth/wildfire
+- https://github.com/skalnik/aqi-wtf
+- https://github.com/laas/fire-rs-saop
+- http://fire-rs.com/en/
