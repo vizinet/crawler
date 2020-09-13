@@ -1,4 +1,4 @@
-# crawler
+# smokie
 
 give papa some data // computer vision applied to the world (for science and fun)
 
