@@ -1,0 +1,7 @@
+beautifulsoup4
+pandas
+requests
+pyppeteer
+matplotlib
+numpy
+imageai

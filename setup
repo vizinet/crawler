@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+# Install Python dependencies.
+# python3 -m pip install -r requirements.txt
+
+# Install OpenCV (for Mac) - should work for other OS's.
+# Look at instructions here:  https://pythonprogramming.net/loading-images-python-opencv-tutorial/.
+brew install opencv
+
+# Get YOLO model weights.
+wget https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
